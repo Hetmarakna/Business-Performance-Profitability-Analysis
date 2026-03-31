@@ -68,3 +68,21 @@ The dataset simulates real-world business transactions and includes:
   - The company should consider continuing or increasing investment in R&D.
   - Analyze what is working in R&D and try to replicate its success in other departments.
   - At the same time, ensure other categories are not being underutilized or neglected.
+
+**2. Revenue By Different Payment Methods**
+
+  **Question :- What is the revenue difference between the highest and lowest payment methods?**
+  
+<img width="623" height="434" alt="Revenue By Payment" src="https://github.com/user-attachments/assets/91f67acc-85d9-4316-98e0-f7ec052e1a4f" />
+
+**Insights :-**
+
+  - Focus on promoting the top-performing payment method to maximize revenue further.
+  - Investigate why the lowest method is weak:
+    - Improve user experience
+    - Offer discounts or cashback
+    - Increase awareness
+   
+**3. All Products Profit**
+
+  **Question :- 
