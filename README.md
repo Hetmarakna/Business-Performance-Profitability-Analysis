@@ -61,7 +61,6 @@ The dataset simulates real-world business transactions and includes:
 
   **Question :- Which category generated the highest revenue?**
 
-**Visulization :-**
 <img width="838" height="433" alt="Total Revenue" src="https://github.com/user-attachments/assets/065c2a83-d2c9-4a18-a227-8cb3220f7358" />
 
 **Insights :-**
@@ -75,7 +74,6 @@ The dataset simulates real-world business transactions and includes:
 
   **Question :- What is the revenue difference between the highest and lowest payment methods?**
 
-**Visulization :-**
 <img width="623" height="434" alt="Revenue By Payment" src="https://github.com/user-attachments/assets/91f67acc-85d9-4316-98e0-f7ec052e1a4f" />
 
 **Insights :-**
@@ -91,7 +89,6 @@ The dataset simulates real-world business transactions and includes:
 
   **Question :- What is the total profit across all product categories?**
 
-**Visulization :-**
 <img width="636" height="431" alt="Products Profit" src="https://github.com/user-attachments/assets/49af3498-2dc9-4611-bed8-d7e84c5db4b9" />
 
 **Insights :-**
@@ -104,7 +101,7 @@ The dataset simulates real-world business transactions and includes:
 
   **Question :- What is the overall trend of revenue throughout the year?**
 
-**Visulization :-**
+
 <img width="1313" height="429" alt="Monthly Trend" src="https://github.com/user-attachments/assets/4f8476a2-d643-4cdf-a35c-41a62aeefb77" />
 
 **Insights :-**
@@ -116,31 +113,24 @@ The dataset simulates real-world business transactions and includes:
 
 # Final Business Performance & Profitability Analysis Dashboard
 
-**Visulization :-**
 <img width="730" height="732" alt="Dashboard" src="https://github.com/user-attachments/assets/d5645025-0c4f-4ba0-9697-fee6362ea48f" />
 
 Based on the analysis, the following recommendations are made:
 
 Revenue Diversification Strategy:
-
-Reduce dependency on the R&D category, which contributes the highest revenue. Focus on strengthening underperforming categories like HR and Operations to create a more balanced and sustainable revenue structure.
+  - Reduce dependency on the R&D category, which contributes the highest revenue. Focus on strengthening underperforming categories like HR and Operations to create a more balanced and sustainable revenue structure.
 
 Profit Optimization Strategy:
-
-Since Healthcare generates the highest profit, increase investment in this segment. At the same time, improve low-performing categories like Furniture through cost reduction, better pricing, or product improvements.
+  - Since Healthcare generates the highest profit, increase investment in this segment. At the same time, improve low-performing categories like Furniture through cost reduction, better pricing, or product improvements.
 
 Payment Method Optimization:
-
-Encourage the use of underperforming payment methods by offering cashbacks, discounts, or better user experience. This will reduce reliance on a single dominant payment channel and improve transaction flexibility.
+  - Encourage the use of underperforming payment methods by offering cashbacks, discounts, or better user experience. This will reduce reliance on a single dominant payment channel and improve transaction flexibility.
 
 Seasonality-Based Planning:
-
-Capitalize on high-performing months (April and December) with aggressive sales strategies and premium offerings. During low-performing months like February and October, implement promotional campaigns to stabilize revenue.
+  - Capitalize on high-performing months (April and December) with aggressive sales strategies and premium offerings. During low-performing months like February and October, implement promotional campaigns to stabilize revenue.
 
 Profit Margin Improvement:
-
-Maintain and enhance the current ~24% profit margin by optimizing operational costs and improving efficiency in low-performing segments.
+  - Maintain and enhance the current ~24% profit margin by optimizing operational costs and improving efficiency in low-performing segments.
 
 Risk Management & Stability:
-
-Avoid over-dependence on a few key drivers (R&D, Healthcare, dominant payment method). A more diversified approach will ensure long-term stability and reduced business risk.
+  - Avoid over-dependence on a few key drivers (R&D, Healthcare, dominant payment method). A more diversified approach will ensure long-term stability and reduced business risk.
