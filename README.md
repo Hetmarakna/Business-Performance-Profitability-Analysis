@@ -37,3 +37,18 @@ Businesses often struggle to understand:
 - Which products or regions are underperforming
 - How discounts and expenses affect profitability
 This project solves these problems by converting raw transactional data into **clear, actionable insights**.
+
+# Dataset Description
+The dataset simulates real-world business transactions and includes:
+| Column Name      | Description            |
+| ---------------- | ---------------------- |
+| Revenue          | Total sales amount     |
+| Expenses         | Operational costs      |
+| Profit           | Revenue - Expenses     |
+| Category         | Product category       |
+| Product Line     | Specific product group |
+| Region           | Geographic location    |
+| Customer Segment | Type of customer       |
+| Payment Method   | Mode of payment        |
+| Discount         | Applied discount       |
+| Transaction Date | Date of transaction    |
