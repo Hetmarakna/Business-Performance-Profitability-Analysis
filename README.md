@@ -60,7 +60,8 @@ The dataset simulates real-world business transactions and includes:
 **1. Revenue Analysis by all the categories**
 
   **Question :- Which category generated the highest revenue?**
-  
+
+**Visulization :-**
 <img width="838" height="433" alt="Total Revenue" src="https://github.com/user-attachments/assets/065c2a83-d2c9-4a18-a227-8cb3220f7358" />
 
 **Insights :-**
@@ -68,11 +69,13 @@ The dataset simulates real-world business transactions and includes:
   - The company should consider continuing or increasing investment in R&D.
   - Analyze what is working in R&D and try to replicate its success in other departments.
   - At the same time, ensure other categories are not being underutilized or neglected.
+    
 
 **2. Revenue By Different Payment Methods**
 
   **Question :- What is the revenue difference between the highest and lowest payment methods?**
-  
+
+**Visulization :-**
 <img width="623" height="434" alt="Revenue By Payment" src="https://github.com/user-attachments/assets/91f67acc-85d9-4316-98e0-f7ec052e1a4f" />
 
 **Insights :-**
@@ -82,7 +85,31 @@ The dataset simulates real-world business transactions and includes:
     - Improve user experience
     - Offer discounts or cashback
     - Increase awareness
+
    
 **3. All Products Profit**
 
-  **Question :- 
+  **Question :- What is the total profit across all product categories?**
+
+**Visulization :-**
+<img width="636" height="431" alt="Products Profit" src="https://github.com/user-attachments/assets/49af3498-2dc9-4611-bed8-d7e84c5db4b9" />
+
+**Insights :-**
+
+  - The business generates a strong overall profit of 2.04 Cr+, indicating healthy financial performance.
+  - However, this total is not evenly distributed across categories.
+
+
+**4 Monthly Trends**
+
+  **Question :- What is the overall trend of revenue throughout the year?**
+
+**Visulization :-**
+<img width="1313" height="429" alt="Monthly Trend" src="https://github.com/user-attachments/assets/4f8476a2-d643-4cdf-a35c-41a62aeefb77" />
+
+**Insights :-**
+
+  - Capitalize on peak months (April & December) with premium pricing or upselling
+  - Boost low months (Feb & Oct) with targeted promotions
+  - Maintain consistency during mid-year with customer retention strategies
+
