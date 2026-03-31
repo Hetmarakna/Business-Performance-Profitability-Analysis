@@ -57,10 +57,6 @@ The dataset simulates real-world business transactions and includes:
 
 # Project Structure
 
-1. Revenue Analysis by all the categories
+**1. Revenue Analysis by all the categories**
 
-  Question :- 1. Which category generated the highest revenue?
-              2. Which category has the lowest revenue?
-              3. What is the total revenue across all categories?
-              4. What is the difference in revenue between R&D and HR?
-              5. Rank all categories from highest to lowest revenue.
+  **Question :- Which category generated the highest revenue?**
