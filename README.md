@@ -55,4 +55,12 @@ The dataset simulates real-world business transactions and includes:
 
 <img width="1720" height="760" alt="Dataset" src="https://github.com/user-attachments/assets/b9925834-fafe-486d-ab81-b5a8f6f7f8b8" />
 
+# Project Structure
 
+1. Revenue Analysis by all the categories
+
+  Question :- Which category generated the highest revenue?
+              Which category has the lowest revenue?
+              What is the total revenue across all categories?
+              What is the difference in revenue between R&D and HR?
+              Rank all categories from highest to lowest revenue.
