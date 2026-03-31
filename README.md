@@ -59,8 +59,8 @@ The dataset simulates real-world business transactions and includes:
 
 1. Revenue Analysis by all the categories
 
-  Question :- Which category generated the highest revenue?
-              Which category has the lowest revenue?
-              What is the total revenue across all categories?
-              What is the difference in revenue between R&D and HR?
-              Rank all categories from highest to lowest revenue.
+  Question :- 1. Which category generated the highest revenue?
+              2. Which category has the lowest revenue?
+              3. What is the total revenue across all categories?
+              4. What is the difference in revenue between R&D and HR?
+              5. Rank all categories from highest to lowest revenue.
