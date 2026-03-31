@@ -1,3 +1,11 @@
 # Business-Performance-Profitability-Analysis
 # Overview
 This project focuses on analyzing business data to evaluate overall performance, profitability, and key operational insights. Using structured datasets containing revenue, expenses, customer segments, and transaction details, the project transforms raw data into meaningful insights through data analysis and visualization.
+
+# Objective 
+- Analyze revenue, expenses, and profit trends
+- Calculate and monitor profit margins
+- Identify top-performing products and categories
+- Understand regional and customer segment performance
+- Evaluate the impact of discounts and payment methods on profitability
+- Build an interactive Excel dashboard for decision-making
