@@ -60,4 +60,11 @@ The dataset simulates real-world business transactions and includes:
 **1. Revenue Analysis by all the categories**
 
   **Question :- Which category generated the highest revenue?**
+  
 <img width="838" height="433" alt="Total Revenue" src="https://github.com/user-attachments/assets/065c2a83-d2c9-4a18-a227-8cb3220f7358" />
+
+**Insights :-**
+
+  - The company should consider continuing or increasing investment in R&D.
+  - Analyze what is working in R&D and try to replicate its success in other departments.
+  - At the same time, ensure other categories are not being underutilized or neglected.
