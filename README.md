@@ -53,5 +53,6 @@ The dataset simulates real-world business transactions and includes:
 | Discount         | Applied discount       |
 | Transaction Date | Date of transaction    |
 
+<img width="1720" height="760" alt="Dataset" src="https://github.com/user-attachments/assets/b9925834-fafe-486d-ab81-b5a8f6f7f8b8" />
 
 
