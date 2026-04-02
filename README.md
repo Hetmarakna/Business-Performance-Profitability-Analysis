@@ -117,22 +117,22 @@ The dataset simulates real-world business transactions and includes:
 
 Based on the analysis, the following recommendations are made:
 
-Revenue Diversification Strategy:
+**Revenue Diversification Strategy:**
   - Reduce dependency on the R&D category, which contributes the highest revenue. Focus on strengthening underperforming categories like HR and Operations to create a more balanced and sustainable revenue structure.
 
-Profit Optimization Strategy:
+**Profit Optimization Strategy:**
   - Since Healthcare generates the highest profit, increase investment in this segment. At the same time, improve low-performing categories like Furniture through cost reduction, better pricing, or product improvements.
 
-Payment Method Optimization:
+**Payment Method Optimization:**
   - Encourage the use of underperforming payment methods by offering cashbacks, discounts, or better user experience. This will reduce reliance on a single dominant payment channel and improve transaction flexibility.
 
-Seasonality-Based Planning:
+**Seasonality-Based Planning:**
   - Capitalize on high-performing months (April and December) with aggressive sales strategies and premium offerings. During low-performing months like February and October, implement promotional campaigns to stabilize revenue.
 
-Profit Margin Improvement:
+**Profit Margin Improvement:**
   - Maintain and enhance the current ~24% profit margin by optimizing operational costs and improving efficiency in low-performing segments.
 
-Risk Management & Stability:
+**Risk Management & Stability:**
   - Avoid over-dependence on a few key drivers (R&D, Healthcare, dominant payment method). A more diversified approach will ensure long-term stability and reduced business risk.
 
 # Conlusion 
